@@ -55,7 +55,7 @@ form.addEventListener('submit', e => {
 });
 
 function getImg(searchImg) {
-  const API_KEY = '42193842-675e74ed987999787d4b57f5e';
+  const API_KEY = '42390639-e472f6261e3eecbaf31797673';
   const URL = 'https://pixabay.com/api/';
   const PARAMS = new URLSearchParams({
     key: API_KEY,
